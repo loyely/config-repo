@@ -1,0 +1,11 @@
+com:
+  chanjet:
+    service:
+      security:
+        appKeys:
+          - appKey: 1234567890
+            appSecret: 1234567890
+            role: ADMIN
+          - appKey: poiuyt
+            appSecret: lkjhghj
+            role: ADMIN
