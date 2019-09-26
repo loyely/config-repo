@@ -9,3 +9,6 @@ com:
           - appKey: poiuyt
             appSecret: lkjhghj
             role: ADMIN
+          - appKey: nxw
+            appSecret: Test
+            role: ADMIN
