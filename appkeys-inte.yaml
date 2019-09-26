@@ -10,5 +10,5 @@ com:
             appSecret: lkjhghj
             role: ADMIN
           - appKey: nxw
-            appSecret: dwsdsdafdsfdsgdfgadf
+            appSecret: 12345678
             role: ADMIN
