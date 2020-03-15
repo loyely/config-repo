@@ -4,11 +4,11 @@ com:
       security:
         appKeys:
           - appKey: 1234567890
-            appSecret: tygjsukhdjlakshdla
+            appSecret: 213213123123
             role: ADMIN
           - appKey: poiuyt
             appSecret: lkjhghj
-            role: ADMIN
+            role: 123123
           - appKey: nxw
             appSecret: 1234567890
-            role: ADMIN
+            role: 3123123123
