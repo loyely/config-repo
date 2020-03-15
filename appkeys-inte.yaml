@@ -4,7 +4,7 @@ com:
       security:
         appKeys:
           - appKey: 1234567890
-            appSecret: 无4567890-oiuytrdsdfghjklkjhg
+            appSecret: tygjsukhdjlakshdla
             role: ADMIN
           - appKey: poiuyt
             appSecret: lkjhghj
